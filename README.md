@@ -1,0 +1,1 @@
+For OK6410 (S3C6410 & 256MB DRAM & 2 Gb NANDFlash) 
